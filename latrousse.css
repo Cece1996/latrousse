@@ -1,0 +1,63 @@
+.reset {
+    margin: 0;
+    padding: 0;
+}
+
+.fond-marron {
+    background-color: #2b0b0b;
+}
+
+.text-blanc {
+    color: #ffffff;
+}
+
+.border {
+    border: 1px solid #281d1e;
+}
+
+.padding-20 {
+    padding: 20px;
+}
+
+.fontsize {
+    font-size: 1.8em;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.souligne {
+    text-decoration: underline;
+}
+
+.interligne {
+    line-height: 40px;
+}
+
+.montserrat {
+    font-family: 'Montserrat', 'Arial';
+}
+
+.boutton {
+    padding: 8px 20px;
+    font-size: 1.8em;
+    font-family: 'Montserrat';
+    background-color: #9a4900;
+    color: #fff;
+    border: none;
+    border-bottom: 10px solid #c46f23;
+    border-radius: 6px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.boutton:hover {
+    background-color: #fff;
+    color: #9a4900;
+    transition-duration: 0.3s;
+}
